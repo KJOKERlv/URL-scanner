@@ -1,6 +1,5 @@
 requests
 inquirer
 bs4
-time
 yaspin
 pyfiglet
