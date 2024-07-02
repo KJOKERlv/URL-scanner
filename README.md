@@ -16,5 +16,11 @@ Install the required modules so that the tool may run without problem.
 
 launch the tool using the following comand:
 
+![Screenshot from 2024-07-02 18-35-55](https://github.com/KJOKERlv/URL-scanner/assets/174276727/3ccf2c43-80fb-4044-aafa-aa9d519a09e3)
+
+#USAGE:
+open the tool and select the first function to run the URL-scanner.
+The URL-scanner obtains links of website that are all hosted by the same domain name depending on the url that you have provided.
+Example we will obtain all websites that are hosted by google and have the same domain name.
 
 
