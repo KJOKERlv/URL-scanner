@@ -22,6 +22,7 @@ launch the tool using the following comand:
 open the tool and select the first function to run the URL-scanner.
 The URL-scanner obtains links of website that are all hosted by the same domain name depending on the url that you have provided.
 Example we will obtain all websites that are hosted by google and have the same domain name.
+
 ![Screenshot from 2024-07-02 18-55-20](https://github.com/KJOKERlv/URL-scanner/assets/174276727/f8a03949-febd-4157-842c-bc07f0524b56)
 
 The Output is:
